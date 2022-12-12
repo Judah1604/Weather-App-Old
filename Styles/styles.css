@@ -13,6 +13,7 @@ body {
 /*	background-color: #2E2E2E; */
 	background-image: url("https://source.unsplash.com/1600x900/?landscape");
 	font-family: 'Open Sans', sans-serif;
+        background-repeat: no-repeat;
 }
 
 .card {
